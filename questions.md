@@ -18,12 +18,16 @@ A. I would prefer an ubuntu box with sublime text editor.
 **Social links**
 
 1. Link to your github account
+A. https://github.com/juliatjoy
 
 2. Link to your stackoverflow account
+A. I do not have a stackoverfolw account
 
 3. Link to your Blog/Tumblr/Personal Website
+A. I do not have a Blog/Tumblr/Personal website.
 
 4. Link to you Linkedin Account
+A. https://www.linkedin.com/in/juliat-joy-aa30327a
 
 **All the questions below are related to your development enviornment**
 
