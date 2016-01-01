@@ -46,6 +46,7 @@ A. It will take 15-20 minutes to install or  re-setup my development enviornment
 **Programming Languages**
 
 7. The languages in which you have written over 1000 lines of code
+A. I have wrote 1000 lines of code in C, CPP, Java, HTML, Ruby and on Ruby on Rails.
 
 8. The languages you learned which were not part of your course.
 
