@@ -4,6 +4,14 @@
 A. Yes, I do have personal computer.
 
 2. Describe your present development enviornment (We are talking abour your dev machine, like OS, RAM, Screen Resolution)
+A. Device name: Dell-Inspiron-N4050
+   Memory: 1.8GiB
+   Processor: Intel Core i3-2330M 
+   Graphics: Intel SandyBridge Mobile
+   OS type: 64-bit
+   Size: 14"
+   Resolution: 1366X768 Pixels
+
 
 3. Describe your ideal development enviornment
 
