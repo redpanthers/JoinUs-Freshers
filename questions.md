@@ -12,7 +12,6 @@ A. Device name: Dell-Inspiron-N4050
    Size: 14"
    Resolution: 1366X768 Pixels
 
-
 3. Describe your ideal development enviornment
 
 **Social links**
