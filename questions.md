@@ -1,6 +1,7 @@
 # Questions
 
 1. Do you have your own personal computer?
+A. Yes, I do have personal computer.
 
 2. Describe your present development enviornment (We are talking abour your dev machine, like OS, RAM, Screen Resolution)
 
