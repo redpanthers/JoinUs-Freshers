@@ -38,6 +38,7 @@ A. grep -rl 'string' *
    * to specify folder
 
 5. Which all programming languages are installed in your system.
+A. I have installed C, CPP, Ruby, Ruby on Rails in my system.
 
 6. How long will it take you to install or re-setup your development enviornment from scratch? Have you done any automation on it
 
