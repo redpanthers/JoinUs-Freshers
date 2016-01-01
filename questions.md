@@ -49,6 +49,7 @@ A. It will take 15-20 minutes to install or  re-setup my development enviornment
 A. I have wrote 1000 lines of code in C, CPP, Java, HTML, Ruby and on Ruby on Rails.
 
 8. The languages you learned which were not part of your course.
+A. HTML, Ruby and Ruby on Rails.
 
 9. Programming question 1 (You may use a programming language of your choice, the code and instruction on how to run it should be included in your pull request)
 
