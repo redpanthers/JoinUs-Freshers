@@ -41,6 +41,7 @@ A. grep -rl 'string' *
 A. I have installed C, CPP, Ruby, Ruby on Rails in my system.
 
 6. How long will it take you to install or re-setup your development enviornment from scratch? Have you done any automation on it
+A. It will take 15-20 minutes to install or  re-setup my development enviornment from scratch. No, I havent done any automation on it.
 
 **Programming Languages**
 
