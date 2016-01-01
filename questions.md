@@ -1,7 +1,7 @@
 # Questions
 
 1. Do you have your own personal computer?
-A. Yes, I do have personal computer.
+A. Yes, I do have personal computer with ubuntu 14.04 LTS.
 
 2. Describe your present development enviornment (We are talking abour your dev machine, like OS, RAM, Screen Resolution)
 A. Device name: Dell-Inspiron-N4050
@@ -13,6 +13,7 @@ A. Device name: Dell-Inspiron-N4050
    Resolution: 1366X768 Pixels
 
 3. Describe your ideal development enviornment
+A. I would prefer an ubuntu box with sublime text editor.
 
 **Social links**
 
