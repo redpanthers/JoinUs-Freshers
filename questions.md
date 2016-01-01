@@ -32,6 +32,10 @@ A. https://www.linkedin.com/in/juliat-joy-aa30327a
 **All the questions below are related to your development enviornment**
 
 4. Write the steps you need to do to find a `string` from a group of files
+A. grep -rl 'string' *
+   -r helps in reccursively checking the folders
+   -l to ignore binary files
+   * to specify folder
 
 5. Which all programming languages are installed in your system.
 
