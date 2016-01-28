@@ -7,8 +7,8 @@
 2. Describe your present development enviornment (We are talking abour your dev machine, like OS, RAM, Screen Resolution)
  
 3. ### I have a hp laptop with two different operating systems(windows,ubuntu 14.0.4) mostily i would like to use ubuntu  os
-4.      RAM :4gb,screen Resolution:1366X768
-4. 
+  RAM :4gb,screen Resolution:1366X768
+
 
 3. Describe your ideal development enviornment: 
     
@@ -24,17 +24,17 @@
 
 **All the questions below are related to your development enviornment**
 
-4. Write the steps you need to do to find a `string` from a group of files: step1 :find the directory step2:iterate through each file using if condition.
+4. Write the steps you need to do to find a `string` from a group of files: step1 : ### find the directory step2:iterate through each file using if condition.
 
-5. Which all programming languages are installed in your system.   :ruby,python,java,perl
+5. Which all programming languages are installed in your system.   : ### ruby,python,java,perl
 
-6. How long will it take you to install or re-setup your development enviornment from scratch? Have you done any automation on it :it will take around one day
+6. How long will it take you to install or re-setup your development enviornment from scratch? Have you done any automation on it : ### it will take around one day
 
 **Programming Languages**
 
-7. The languages in which you have written over 1000 lines of code:ruby[ruby on rails]
+7. The languages in which you have written over 1000 lines of code: ### ruby[ruby on rails]
 
-8. The languages you learned which were not part of your course.:python
+8. The languages you learned which were not part of your course.: ### python
 
 9. Programming question 1 (You may use a programming language of your choice, the code and instruction on how to run it should be included in your pull request)
 
