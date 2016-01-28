@@ -2,12 +2,12 @@
 
 1. Do you have your own personal computer?
  
-    # Yes i have a personal  computer
+    ### Yes i have a personal  computer
 
 2. Describe your present development enviornment (We are talking abour your dev machine, like OS, RAM, Screen Resolution)
-3. 
-3. I have a hp laptop with two different operating systems(windows,ubuntu 14.0.4) mostily i would like to use ubuntu  os
-4. RAM :4gb,screen Resolution:1366X768
+ 
+3. ### I have a hp laptop with two different operating systems(windows,ubuntu 14.0.4) mostily i would like to use ubuntu  os
+4.      RAM :4gb,screen Resolution:1366X768
 4. 
 
 3. Describe your ideal development enviornment: 
