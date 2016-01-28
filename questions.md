@@ -1,8 +1,8 @@
 # Questions
 
 1. Do you have your own personal computer?
-2. 
-2. Yes i have a personal  computer
+ 
+    # Yes i have a personal  computer
 
 2. Describe your present development enviornment (We are talking abour your dev machine, like OS, RAM, Screen Resolution)
 3. 
@@ -24,7 +24,7 @@
 
 **All the questions below are related to your development enviornment**
 
-4. Write the steps you need to do to find a `string` from a group of files: step1 :find the directory step2:iterate through each file using if condition
+4. Write the steps you need to do to find a `string` from a group of files: step1 :find the directory step2:iterate through each file using if condition.
 
 5. Which all programming languages are installed in your system.   :ruby,python,java,perl
 
@@ -46,3 +46,5 @@
 
   * Create a comand line twitter client, that lets you send tweet to your twitter profile form the command line.
   * The code has to be object oriented
+    
+    
