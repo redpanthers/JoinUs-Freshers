@@ -24,18 +24,21 @@
 
 **All the questions below are related to your development enviornment**
 
-4. Write the steps you need to do to find a `string` from a group of files: step1 :  Find the directory step2:iterate through each file using if condition.
+4. Write the steps you need to do to find a `string` from a group of files: step1 :  
+   Find the directory step2:iterate through each file using if condition.
 
-5. Which all programming languages are installed in your system.   :  Ruby,python,java,perl
+5. Which all programming languages are installed in your system.   
+   Ruby,python,java,perl
 
-6. How long will it take you to install or re-setup your development enviornment from scratch? Have you done any automation on it :  It will take around one day
+6. How long will it take you to install or re-setup your development enviornment from scratch? Have you done any automation on it :  
+ It will take  around one day to re-setup my development enviornment,iam didnt attemt to do any automation for this
 
 **Programming Languages**
 
-7. The languages in which you have written over 1000 lines of code:  Ruby[ruby on rails]
-
-8. The languages you learned which were not part of your course.:  Python
-
+7. The languages in which you have written over 1000 lines of code
+   : Ruby[ruby on rails]
+8. The languages you learned which were not part of your course.
+   :  Python
 9. Programming question 1 (You may use a programming language of your choice, the code and instruction on how to run it should be included in your pull request)
 
   * Create a file with 1000 lines (Place random sentence and text in those lines using character 'a'..'z', 'A'..'Z'). Each line should have a sentence. Make sure everything is random, the file should have minimum of 5000 words.
