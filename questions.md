@@ -24,7 +24,7 @@
 
 **All the questions below are related to your development enviornment**
 
-4. Write the steps you need to do to find a `string` from a group of files: 
+4. Write the steps you need to do to find a `string` from a group of files: step1 :find the directory step2:iterate through each file using if condition
 
 5. Which all programming languages are installed in your system.   :ruby,python,java,perl
 
