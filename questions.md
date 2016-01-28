@@ -2,7 +2,7 @@
 
 1. Do you have your own personal computer?
  
-#### Yes i have a personal  computer
+ #### Yes i have a personal  computer
 
 2. Describe your present development enviornment (We are talking abour your dev machine, like OS, RAM, Screen Resolution)
  
@@ -24,7 +24,7 @@
 
 **All the questions below are related to your development enviornment**
 
-4. Write the steps you need to do to find a `string` from a group of files: step1 : #### Find the directory step2:iterate through each file using if condition.
+4. Write the steps you need to do to find a `string` from a group of files: step1 : #### Find the directory step2:iterate through each file using if condition.#### 
 
 5. Which all programming languages are installed in your system.   : #### Ruby,python,java,perl
 
