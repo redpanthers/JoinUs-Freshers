@@ -13,10 +13,10 @@ class Newtweet
 
 
         client = Twitter::REST::Client.new do |config|
-          config.consumer_key        = "gMRkW6R7iQSlX61bjmP2UVxeY"
-          config.consumer_secret     = "sYKVufMQGQu3KzfYZAuKLM05VGxijB7kuCARSoRNyBeSblzJ2c"
-          config.access_token        = "1341053089-GFWTYD9RI3tJZPzHWdYgmkUg6dIQfDxeHZyiYnK"
-          config.access_token_secret = "hArQyA7blmVDsqmDrKhwXQSxu617pyX98GXsCIjQhgFK5"
+          config.consumer_key        = "your consumer_key"
+          config.consumer_secret     = "your consumer_secret "
+          config.access_token        = "your access_token"
+          config.access_token_secret = "your access_token"
         end
         print 'hello'
         client.update(@userinput)
