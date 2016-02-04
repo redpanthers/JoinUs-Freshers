@@ -5,10 +5,12 @@ yes
 2. Describe your present development enviornment (We are talking abour your dev machine, like OS, RAM, Screen Resolution)
 Sony VAIO, WINDOWS 8, 2GB RAM, i3 Processor
 3. Describe your ideal development enviornment
+My ideal working environment is one where there's a good sense of team spirit.  A strong work ethic is obviously important but the human side is also important.  I enjoy working with people who have a decent sense of humour and who, while they might take their work very seriously. I like people who are down to earth but who have a dynamic and progressive approach to their work. I really enjoy working as part of a highly committed and professional team.
 
 **Social links**
 
 1. Link to your github account
+https://github.com/robinjos333/JoinUs/edit/master/questions.md
 
 2. Link to your stackoverflow account
 
@@ -16,14 +18,15 @@ Sony VAIO, WINDOWS 8, 2GB RAM, i3 Processor
 
 4. Link to you Linkedin Account
 
+
 **All the questions below are related to your development enviornment**
 
 4. Write the steps you need to do to find a `string` from a group of files
-First open the file
-the string we want to search  sto re it in pattern as case insensitive
-then find match for that word in entire document using pattern matcher
-if found display the positions
-do these steps for each line
+  a. First open the file
+  b. the string we want to search  sto re it in pattern as case insensitive
+  c. then find match for that word in entire document using pattern matcher
+  d. if found display the positions
+  e. do these steps for each line
 5. Which all programming languages are installed in your system.
 java, html, php, mysql 
 6. How long will it take you to install or re-setup your development enviornment from scratch? Have you done any automation on it
