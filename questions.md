@@ -1,11 +1,11 @@
 # Questions
 
-1. Do you have your own personal computer?
+1. Do you have your own personal computer?yes.ihave.
 
 2. Describe your present development enviornment (We are talking abour your dev machine, like OS, RAM, Screen Resolution)
-
+hp,windows 8,4gb ram
 3. Describe your ideal development enviornment
-
+windows
 **Social links**
 
 1. Link to your github account
@@ -19,17 +19,22 @@
 **All the questions below are related to your development enviornment**
 
 4. Write the steps you need to do to find a `string` from a group of files
-
+open file.
+the file is not equl to null in while loop
+if(wordtob search,filepointer)
+word prest
+else
+not present
 5. Which all programming languages are installed in your system.
-
+java,asp.net,c,python
 6. How long will it take you to install or re-setup your development enviornment from scratch? Have you done any automation on it
-
+no
 **Programming Languages**
 
 7. The languages in which you have written over 1000 lines of code
-
+c
 8. The languages you learned which were not part of your course.
-
+asp.net c#
 9. Programming question 1 (You may use a programming language of your choice, the code and instruction on how to run it should be included in your pull request)
 
   * Create a file with 1000 lines (Place random sentence and text in those lines using character 'a'..'z', 'A'..'Z'). Each line should have a sentence. Make sure everything is random, the file should have minimum of 5000 words.
