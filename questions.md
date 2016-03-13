@@ -34,6 +34,11 @@
 
 4. Write the steps you need to do to find a `string` from a group of files
 
+  * Iterate through the file list untill the string is found
+  * Open the file
+  * Iterate through the lines
+  * Check whether the line contains the the string 'string'
+
 5. Which all programming languages are installed in your system.
 
 6. How long will it take you to install or re-setup your development environment from scratch? Have you done any automation on it
