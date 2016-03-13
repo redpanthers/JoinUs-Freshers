@@ -56,6 +56,8 @@
 
 6. How long will it take you to install or re-setup your development environment from scratch? Have you done any automation on it
 
+  I don't have much idea about it , No automation scripts other than my dotfiles !
+
 **Programming Languages**
 
 7. The languages in which you have written over 1000 lines of code
