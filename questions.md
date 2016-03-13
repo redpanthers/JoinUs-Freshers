@@ -40,6 +40,19 @@
   * Check whether the line contains the the string 'string'
 
 5. Which all programming languages are installed in your system.
+  1. Ruby
+  2. C
+  3. C++
+  4. Java
+  5. Python
+  6. C#(mono)
+  7. Go
+  8. Haskell
+  9. Java Script (node)
+  10. Vala
+  11. PHP
+  12. Lua ( Don't ask me why !)
+  13. Qml ( As the part of Qt)
 
 6. How long will it take you to install or re-setup your development environment from scratch? Have you done any automation on it
 
