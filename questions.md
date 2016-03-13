@@ -1,11 +1,15 @@
 # Questions
 
 1. Do you have your own personal computer?
-Yes
+
+  Yes
 
 2. Describe your present development environment (We are talking about your dev machine, like OS, RAM, Screen Resolution, your favorite IDE etc)
 
+  32 bit Ubuntu machine , 4 GB RAM and atom is the favorite text editor
+
 3. Describe your ideal development environment
+
 
 **Social links**
 
