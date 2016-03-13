@@ -10,6 +10,8 @@
 
 3. Describe your ideal development environment
 
+  21 inch dual monitor, i5 or above processor,proper lighting and no noise !
+
 
 **Social links**
 
