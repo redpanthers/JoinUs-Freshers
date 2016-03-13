@@ -61,6 +61,11 @@
 **Programming Languages**
 
 7. The languages in which you have written over 1000 lines of code
+  1. Ruby
+  2. Python
+  3. C++
+  4. Javascript
+  5. xml (Apertium Rules)
 
 8. The languages you learned which were not part of your course.
 
