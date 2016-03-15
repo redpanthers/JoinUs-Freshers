@@ -73,7 +73,10 @@
 
   * Create a file with 1000 lines (Place random sentence and text in those lines using character 'a'..'z', 'A'..'Z'). Each line should have a sentence. Make sure everything is random, the file should have minimum of 5000 words.
 
+    [Gist](https://gist.github.com/tachyons/db9a5eb475dfaf662e5b)
   * Create a program that takes the file you made above as input, and then extract words from that file and place them into separate files. The words that start with A, should be placed in a file called 'word_a.txt', those with B in 'word_b.txt'. (The extraction is case-insensitive)
+
+    [Gist](https://gist.github.com/tachyons/db9a5eb475dfaf662e5b)
 
 10. Programming question 2
 
