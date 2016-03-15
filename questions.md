@@ -82,6 +82,8 @@
 
   * Create a command line twitter client, that lets you send tweet to your twitter profile from the command line.
 
+      [Tweety Gist](https://gist.github.com/tachyons/5c085f1cae3e24a07c47)
+
 
   **NB: We expect you to write code using Ruby in an object oriented way. If you aren't familiar with the language, you can have a look at the following resources to learn ruby.**
 
