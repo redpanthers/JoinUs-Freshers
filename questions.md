@@ -2,43 +2,89 @@
 
 1. Do you have your own personal computer?
 
+  Yes
+
 2. Describe your present development environment (We are talking about your dev machine, like OS, RAM, Screen Resolution, your favorite IDE etc)
 
+  32 bit Ubuntu machine , 4 GB RAM and atom is the favorite text editor
+
 3. Describe your ideal development environment
+
+  21 inch dual monitor, i5 or above processor,proper lighting and no noise !
+
 
 **Social links**
 
 1. Link to your Github account
 
+  [Github](https://github.com/tachyons)
+
 2. Link to your StackOverflow account
+
+  [StackOverflow](http://stackoverflow.com/users/1116381/tachyons)
 
 3. Link to your Blog/Tumblr/Personal Website
 
+  [Website](http://aboobacker.in)
 4. Link to you LinkedIn Account
+
+  [LinkedIn](https://www.linkedin.com/in/aboobacker-m-k-3031415a)
 
 **All the questions below are related to your development environment**
 
 4. Write the steps you need to do to find a `string` from a group of files
 
+  * Iterate through the file list untill the string is found
+  * Open the file
+  * Iterate through the lines
+  * Check whether the line contains the the string 'string'
+
 5. Which all programming languages are installed in your system.
+  1. Ruby
+  2. C
+  3. C++
+  4. Java
+  5. Python
+  6. C#(mono)
+  7. Go
+  8. Haskell
+  9. Java Script (node)
+  10. Vala
+  11. PHP
+  12. Lua ( Don't ask me why !)
+  13. Qml ( As the part of Qt)
 
 6. How long will it take you to install or re-setup your development environment from scratch? Have you done any automation on it
+
+  I don't have much idea about it , No automation scripts other than my dotfiles !
 
 **Programming Languages**
 
 7. The languages in which you have written over 1000 lines of code
+  1. Ruby
+  2. Python
+  3. C++
+  4. Javascript
+  5. xml (Apertium Rules)
 
 8. The languages you learned which were not part of your course.
+
+  Python,Php,Java Script,Ruby,C#
 
 9. Programming question 1
 
   * Create a file with 1000 lines (Place random sentence and text in those lines using character 'a'..'z', 'A'..'Z'). Each line should have a sentence. Make sure everything is random, the file should have minimum of 5000 words.
 
+    [Gist](https://gist.github.com/tachyons/db9a5eb475dfaf662e5b)
   * Create a program that takes the file you made above as input, and then extract words from that file and place them into separate files. The words that start with A, should be placed in a file called 'word_a.txt', those with B in 'word_b.txt'. (The extraction is case-insensitive)
+
+    [Gist](https://gist.github.com/tachyons/db9a5eb475dfaf662e5b)
 
 10. Programming question 2
 
   * Create a command line twitter client, that lets you send tweet to your twitter profile from the command line.
+
+      [Tweety Gist](https://gist.github.com/tachyons/5c085f1cae3e24a07c47)
 
 
   **NB: We expect you to write code using Ruby in an object oriented way. If you aren't familiar with the language, you can have a look at the following resources to learn ruby.**
