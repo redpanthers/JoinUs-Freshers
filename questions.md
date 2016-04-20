@@ -41,7 +41,12 @@
 		2.3 if no matches are found, then the 'string' isn't present in any of the files in the specified group
 
 5. Which all programming languages are installed in your system.
-
+	1. C/C++
+	2. Java
+	3. Python
+	4. Perl
+	5. Ruby
+	6. php
 6. How long will it take you to install or re-setup your development environment from scratch? Have you done any automation on it
 
 **Programming Languages**
