@@ -55,7 +55,13 @@
 **Programming Languages**
 
 7. The languages in which you have written over 1000 lines of code
-
+	1. c/c++
+	2. Java
+	3. Python
+	4. Ruby (RoR)
+	5. JavaScript
+	6. php
+	
 8. The languages you learned which were not part of your course.
 
 9. Programming question 1
