@@ -27,8 +27,10 @@
 
 3. Link to your Blog/Tumblr/Personal Website
 	http://www.teczoz.com  (group blog)
+	
 4. Link to you LinkedIn Account
-
+	https://in.linkedin.com/in/sreenadhtc
+	
 **All the questions below are related to your development environment**
 
 4. Write the steps you need to do to find a `string` from a group of files
