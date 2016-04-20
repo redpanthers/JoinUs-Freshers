@@ -70,7 +70,7 @@
 
   * Create a file with 1000 lines (Place random sentence and text in those lines using character 'a'..'z', 'A'..'Z'). Each line should have a sentence. Make sure everything is random, the file should have minimum of 5000 words.
 	**************** PROGRAM BEGIN ****************
-  
+	```ruby
 	class TextGen
 	
 		def initialize()
@@ -105,15 +105,14 @@
 	puts "Words: " + gen.read_words_from_file.to_s + "\n" + "Lines: " + gen.read_line_from_file.to_s
 	
 	puts "We are done here ;-) :-D"
-	
-
+	```
 	**************** PROGRAM END ******************
 	
 	
   * Create a program that takes the file you made above as input, and then extract words from that file and place them into separate files. The words that start with A, should be placed in a file called 'word_a.txt', those with B in 'word_b.txt'. (The extraction is case-insensitive)
 	
 	**************** PROGRAM BEGIN ****************
-	
+	```ruby
 	class Extractor
 	
 		def init()
@@ -136,7 +135,7 @@
 	
 	extract.extract_word
 	
-	
+	```
 	**************** PROGRAM END ******************
 	
 	
@@ -144,8 +143,7 @@
 
   * Create a command line twitter client, that lets you send tweet to your twitter profile from the command line.
 	**************** PROGRAM BEGIN ****************
-	
-	
+	```ruby
 	
 	require 'rubygems'
 	require 'twitter_oauth'
@@ -175,8 +173,7 @@
 	
 	tb.tweet_now(status)
 	
-	
-	
+	```
 	**************** PROGRAM END ******************
 	
 
