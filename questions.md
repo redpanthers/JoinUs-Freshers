@@ -26,7 +26,7 @@
 	http://stackoverflow.com/users/6220432/sreenadh-t-c
 
 3. Link to your Blog/Tumblr/Personal Website
-
+	http://www.teczoz.com  (group blog)
 4. Link to you LinkedIn Account
 
 **All the questions below are related to your development environment**
