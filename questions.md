@@ -34,6 +34,11 @@
 **All the questions below are related to your development environment**
 
 4. Write the steps you need to do to find a `string` from a group of files
+	1. read the 'string'
+	2. open file and search for the 'string' in the file
+		2.1 if found, show the file name, line number and so on of the 'string', then,
+		2.2 repeat (2) until all the files in the group have been searched.
+		2.3 if no matches are found, then the 'string' isn't present in any of the files in the specified group
 
 5. Which all programming languages are installed in your system.
 
