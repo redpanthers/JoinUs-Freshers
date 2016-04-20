@@ -69,7 +69,41 @@
 9. Programming question 1
 
   * Create a file with 1000 lines (Place random sentence and text in those lines using character 'a'..'z', 'A'..'Z'). Each line should have a sentence. Make sure everything is random, the file should have minimum of 5000 words.
+	**************** PROGRAM BEGIN ****************
+  
+	class TextGen
+		def initialize()
+			@words = 5000
+			@lines = 1000
+		end
 
+		def read_words_from_file()
+			File.open('sentence.txt') {|f| @words = f.read.count(" ")}
+			return @words
+		end
+	
+		def read_line_from_file()
+			File.open('sentence.txt') {|f| @lines = f.read.count("\n")}
+			return @lines + 1
+		end
+	
+		def make_file
+			f = File.open("sentence.txt",'w')
+			f.write(@lines.times.collect{
+					rand(6..9).times.collect{
+						Array('a'..'z').sample(rand(3..5)).join
+				}.join(" ").capitalize+"."
+			}.join("\n"))
+		end
+	end
+
+	gen = TextGen.new()
+	gen.make_file
+
+	puts "Words: " + gen.read_words_from_file.to_s + "\n" + "Lines: " + gen.read_line_from_file.to_s
+	puts "We are done here ;-) :-D"
+
+	**************** PROGRAM END ******************
   * Create a program that takes the file you made above as input, and then extract words from that file and place them into separate files. The words that start with A, should be placed in a file called 'word_a.txt', those with B in 'word_b.txt'. (The extraction is case-insensitive)
 
 10. Programming question 2
