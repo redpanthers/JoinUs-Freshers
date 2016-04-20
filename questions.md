@@ -20,7 +20,8 @@
 **Social links**
 
 1. Link to your Github account
-
+	https://github.com/sreecodeslayer
+	
 2. Link to your StackOverflow account
 
 3. Link to your Blog/Tumblr/Personal Website
