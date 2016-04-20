@@ -63,7 +63,9 @@
 	6. php
 	
 8. The languages you learned which were not part of your course.
-
+	1. Python
+	2. Ruby
+	
 9. Programming question 1
 
   * Create a file with 1000 lines (Place random sentence and text in those lines using character 'a'..'z', 'A'..'Z'). Each line should have a sentence. Make sure everything is random, the file should have minimum of 5000 words.
