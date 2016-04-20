@@ -3,7 +3,14 @@
 1. Do you have your own personal computer?
 	Yes
 2. Describe your present development environment (We are talking about your dev machine, like OS, RAM, Screen Resolution, your favorite IDE etc)
-
+	OS : I switch between Windows 10 and Ubuntu depending on the project and dependencies.
+	RAM : 8GB
+	Screen Resolution : 1360*768
+	IDE : Almost IDE from JetBrains (Personally used RubyMine, IntelliJ IDEA, Webstorm, PyCharm), Android Studio (which has the taste of JetBrains as well ),
+		  Eclipse from olden days, Adobe Dreamweaver
+	Text Editors : I often use Sublime Text, Notepad++ as well
+	Processor : Powerful enough to handle anything I through at it (AMD FX-8120).
+	GPU : MSI GTX960 2G Gaming edition
 3. Describe your ideal development environment
 
 **Social links**
