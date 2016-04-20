@@ -47,8 +47,11 @@
 	4. Perl
 	5. Ruby
 	6. php
+	
 6. How long will it take you to install or re-setup your development environment from scratch? Have you done any automation on it
-
+	Setting up my environment from scratch would take around 60-100mins, for I usually keep the installation and sources saved/updated on my
+	computer as a backup for almost all the time.
+	
 **Programming Languages**
 
 7. The languages in which you have written over 1000 lines of code
