@@ -99,6 +99,7 @@
 	end
 
 	gen = TextGen.new()
+	
 	gen.make_file
 
 	puts "Words: " + gen.read_words_from_file.to_s + "\n" + "Lines: " + gen.read_line_from_file.to_s
@@ -130,9 +131,11 @@
 			puts "We are done here!"
 		end
 	end
-
+	
 	extract = Extractor.new()
+	
 	extract.extract_word
+	
 	
 	**************** PROGRAM END ******************
 	
@@ -140,7 +143,42 @@
 10. Programming question 2
 
   * Create a command line twitter client, that lets you send tweet to your twitter profile from the command line.
+	**************** PROGRAM BEGIN ****************
+	
+	
+	
+	require 'rubygems'
+	require 'twitter_oauth'
 
+	class Tweeter
+	private
+		TWITTER_CONSUMER_KEY = 'add your here'
+		TWITTER_CONSUMER_SECRET = 'add your here'
+		TWITTER_ACCESS_TOKEN = 'add your here'
+		TWITTER_ACCESS_SECRET = 'add your here'
+	public
+		def tweet_now(status)
+			client = TwitterOAuth::Client.new(
+			:consumer_key => TWITTER_CONSUMER_KEY,
+			:consumer_secret => TWITTER_CONSUMER_SECRET,
+			:token => TWITTER_ACCESS_TOKEN,
+			:secret => TWITTER_ACCESS_SECRET)
+			client.update("#{status}")
+		end
+	end
+
+	tb = Tweeter.new()
+	
+	puts "Please enter your tweet here:"
+	
+	status = STDIN.readline.chomp
+	
+	tb.tweet_now(status)
+	
+	
+	
+	**************** PROGRAM END ******************
+	
 
   **NB: We expect you to write code using Ruby in an object oriented way. If you aren't familiar with the language, you can have a look at the following resources to learn ruby.**
 
