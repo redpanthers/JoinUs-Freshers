@@ -72,6 +72,7 @@
 	**************** PROGRAM BEGIN ****************
   
 	class TextGen
+	
 		def initialize()
 			@words = 5000
 			@lines = 1000
@@ -101,11 +102,41 @@
 	gen.make_file
 
 	puts "Words: " + gen.read_words_from_file.to_s + "\n" + "Lines: " + gen.read_line_from_file.to_s
+	
 	puts "We are done here ;-) :-D"
+	
 
 	**************** PROGRAM END ******************
+	
+	
   * Create a program that takes the file you made above as input, and then extract words from that file and place them into separate files. The words that start with A, should be placed in a file called 'word_a.txt', those with B in 'word_b.txt'. (The extraction is case-insensitive)
+	
+	**************** PROGRAM BEGIN ****************
+	
+	class Extractor
+	
+		def init()
+		@f = File.open("sentence.txt",'r')		
+		end
+		def extract_word()
+			puts "Extracting the words...."
+			File.open('sentence.txt').each do |line|
+				word_array =  line.split(' ')
+				word_array.each do |word|			
+					File.open("word_"+word[0].downcase+".txt",'a'){|f|f.write(word.tr('.','')+"\n")}
+				end
+			end
+			
+			puts "We are done here!"
+		end
+	end
 
+	extract = Extractor.new()
+	extract.extract_word
+	
+	**************** PROGRAM END ******************
+	
+	
 10. Programming question 2
 
   * Create a command line twitter client, that lets you send tweet to your twitter profile from the command line.
