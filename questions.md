@@ -1,7 +1,7 @@
 # Questions
 
 1. Do you have your own personal computer?
-
+	Yes
 2. Describe your present development environment (We are talking about your dev machine, like OS, RAM, Screen Resolution, your favorite IDE etc)
 
 3. Describe your ideal development environment
