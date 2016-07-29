@@ -1,19 +1,25 @@
 # Questions
 
 1. Do you have your own personal computer?
-- Yes
+```
+Yes
+```
 
 2. Describe your present development environment (We are talking about your dev machine, like OS, RAM, Screen Resolution, your favorite IDE etc)
+```
 - OS: Arch Linux
 - RAM: 4G
 - Screen Resolution: 1366 x 768
 - My favourite IDE: [Atom](https://atom.io)
+```
 
 3. Describe your ideal development environment
+```
 - OS: Parabola GNU/Linux
 - RAM: 2G
 - Screen Resolution: 80 x 25
 - Ideal IDE: GNU/Emacs
+```
 
 **Social links**
 
