@@ -44,7 +44,9 @@ gcc, g++, javac, android, ror, mysql, httpd, ns2, netkit, wireshark, ...
 ```
 
 6. How long will it take you to install or re-setup your development environment from scratch? Have you done any automation on it?
+```
 - 60 minutes, No.
+```
 
 **Programming Languages**
 
@@ -61,12 +63,21 @@ bat, javascript, android
 9. Programming question 1
 
   * Create a file with 1000 lines (Place random sentence and text in those lines using character 'a'..'z', 'A'..'Z'). Each line should have a sentence. Make sure everything is random, the file should have minimum of 5000 words.
+  ```
+  No
+  ```
 
   * Create a program that takes the file you made above as input, and then extract words from that file and place them into separate files. The words that start with A, should be placed in a file called 'word_a.txt', those with B in 'word_b.txt'. (The extraction is case-insensitive)
+  ```
+  No
+  ```
 
 10. Programming question 2
 
   * Create a command line twitter client, that lets you send tweet to your twitter profile from the command line.
+  ```
+  No
+  ```
 
 
   **NB: We expect you to write code using Ruby in an object oriented way. If you aren't familiar with the language, you can have a look at the following resources to learn ruby.**
