@@ -8,13 +8,11 @@
 
 **Social links**
 
-1. Link to your Github account
+1. Link to your StackOverflow account
 
-2. Link to your StackOverflow account
+2. Link to your Blog/Tumblr/Personal Website
 
-3. Link to your Blog/Tumblr/Personal Website
-
-4. Link to you LinkedIn Account
+3. Link to you LinkedIn Account
 
 **All the questions below are related to your development environment**
 
